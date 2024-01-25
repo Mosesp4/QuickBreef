@@ -1,0 +1,2 @@
+# QuickBreef
+Article Summarizer application.
